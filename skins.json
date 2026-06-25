@@ -1,0 +1,43 @@
+{
+  "eyes":[
+    {
+      "name": "",
+      "default_costume": "",
+      "url": ""
+    }
+  ],
+  "hairs":[
+    {
+      "name": "",
+      "default_costume": "",
+      "url": ""
+    }
+  ],
+  "costumes":[
+    {
+      "name": "Elegant suit",
+      "default_costume": "",
+      "url": "https://i.imgur.com/3wjBuDE.png"
+    }
+  ],
+  "gears":[
+    {
+      "name": "",
+      "default_costume": "",
+      "url": ""
+    }
+  ]
+  "gas_trails":[
+    {
+      "name": "Void Energy gas"
+      "default_costume": "",
+      "url": "https://i.imgur.com/jLrp30T.png"
+    }
+  ]
+  "packs":[
+    {
+      "name": "",
+      "url": ""
+    }
+  ]
+}
