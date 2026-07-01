@@ -1,82 +1,82 @@
 {
-    "Sex" : 0,
-    "Eye" : 6,
-    "Face" : "Face13",
-    "Glass" : "GlassNone",
-    "Hair" : "HairM14",
-    "Costume" : 0,
-    "Boots" : 1,
-    "Cape" : 1,
-    "Logo" : 1,
-    "Hat" : "Hat5",
-    "Head" : "HeadNone",
-    "Back" : "BackNone",
-    "SkinColor" : [
-        255,
-        220,
-        196,
-        255
-    ],
-    "HairColor" : [
-        103,
-        52,
-        239,
-        235
-    ],
-    "ShirtColor" : [
-        255,
-        255,
-        255,
-        255
-    ],
-    "StrapsColor" : [
-        98,
-        81,
-        65,
-        255
-    ],
-    "PantsColor" : [
-        255,
-        255,
-        255,
-        255
-    ],
-    "JacketColor" : [
-        183,
-        144,
-        107,
-        255
-    ],
-    "BootsColor" : [
-        49,
-        36,
-        33,
-        255
-    ],
-    "Stats" : "{\"Speed\":\"80\",\"Gas\":\"70\",\"Ammunition\":\"75\",\"Acceleration\":\"95\",\"Perks\":{\"DurableBlades\":\"1\",\"VerticalDash\":\"1\",\"OmniDash\":\"1\"}}",
-    "SkinHair" : "",
-    "SkinEye" : "",
-    "SkinGlass" : "",
-    "SkinFace" : "",
-    "SkinSkin" : "",
-    "SkinCostume" : "https://i.imgur.com/viI8RwY.png",
-    "SkinLogo" : "",
-    "SkinGearL" : "https://i.imgur.com/Nv7fgd8.png",
-    "SkinGearR" : "https://i.imgur.com/Nv7fgd8.png",
-    "SkinGas" : "",
-    "SkinHoodie" : "",
-    "SkinWeaponTrail" : "",
-    "SkinHorse" : "",
-    "SkinThunderspearL" : "",
-    "SkinThunderspearR" : "",
-    "SkinHookL" : "",
-    "SkinHookLTiling" : 1,
-    "SkinHookR" : "",
-    "SkinHookRTiling" : 1,
-    "SkinHat" : "",
-    "SkinHead" : "",
-    "SkinBack" : "",
-    "Name" : "Set 1",
-    "Preset" : false,
-    "UniqueId" : "a22fb541-6316-4468-a930-ad086696fa66"
+  "Sex": 0,
+  "Eye": 6,
+  "Face": "Face13",
+  "Glass": "GlassNone",
+  "Hair": "HairM14",
+  "Costume": 11,
+  "Boots": 1,
+  "Cape": 1,
+  "Logo": 1,
+  "Hat": "Hat5",
+  "Head": "HeadNone",
+  "Back": "BackNone",
+  "SkinColor": [
+    255,
+    220,
+    196,
+    255
+  ],
+  "HairColor": [
+    103,
+    52,
+    239,
+    235
+  ],
+  "ShirtColor": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "StrapsColor": [
+    98,
+    81,
+    65,
+    255
+  ],
+  "PantsColor": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "JacketColor": [
+    183,
+    144,
+    107,
+    255
+  ],
+  "BootsColor": [
+    49,
+    36,
+    33,
+    255
+  ],
+  "Stats": "{\"Speed\":\"80\",\"Gas\":\"70\",\"Ammunition\":\"75\",\"Acceleration\":\"95\",\"Perks\":{\"DurableBlades\":\"1\",\"VerticalDash\":\"1\",\"OmniDash\":\"1\"}}",
+  "SkinHair": "",
+  "SkinEye": "https://i.imgur.com/UEjNXrr.png",
+  "SkinGlass": "",
+  "SkinFace": "",
+  "SkinSkin": "",
+  "SkinCostume": "https://i.imgur.com/3wjBuDE.png",
+  "SkinLogo": "",
+  "SkinGearL": "",
+  "SkinGearR": "",
+  "SkinGas": "https://i.imgur.com/plX9lC1.png",
+  "SkinHoodie": "",
+  "SkinWeaponTrail": "",
+  "SkinHorse": "",
+  "SkinThunderspearL": "",
+  "SkinThunderspearR": "",
+  "SkinHookL": "",
+  "SkinHookLTiling": 1,
+  "SkinHookR": "",
+  "SkinHookRTiling": 1,
+  "SkinHat": "",
+  "SkinHead": "",
+  "SkinBack": "",
+  "Name": "behemoth",
+  "Preset": false,
+  "UniqueId": "a22fb541-6316-4468-a930-ad086696fa66"
 }
